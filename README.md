@@ -24,25 +24,30 @@ Note: Feel free to use whichever tool/language to complete this assessment and s
 The questions asked were the following:
 
 Data Exploration:
-    1. How many trailers are available from each make in the dataset?
-    2. What is the distribution of trailer capacities?
+
+- How many trailers are available from each make in the dataset?
+- What is the distribution of trailer capacities?
     
 Data Manipulation:
-    1. Calculate the average duration of trailer rentals.
-    2. Identify the top 3 most frequently rented trailer models.
+
+- Calculate the average duration of trailer rentals.
+- Identify the top 3 most frequently rented trailer models.
     
 Data Visualization:
-    1. Create a chart of your choice showing the distribution of trailer makes.
-    2. Generate a chart of your choice to visualize the distribution of rental durations.
+
+- Create a chart of your choice showing the distribution of trailer makes.
+- Generate a chart of your choice to visualize the distribution of rental durations.
     
 Performance Analysis:
-    1. Calculate the average utilization rate of trailers (percentage of time trailers are rented out).
-    2. Determine the rental demand trends across different customer industries.
+
+- Calculate the average utilization rate of trailers (percentage of time trailers are rented out).
+- Determine the rental demand trends across different customer industries.
     
 Advanced Analysis:
-    1. Analyze and visualize the correlation between trailer age and rental duration (the age is calculated as the difference in years between the current year and the manufacturing year).
-    2. Identify any seasonal patterns in rental demand based on customer locations.
-    3. Create a chart of your choice to visualize what industries have the most profitable rentals.
+
+- Analyze and visualize the correlation between trailer age and rental duration (the age is calculated as the difference in years between the current year and the manufacturing year).
+- Identify any seasonal patterns in rental demand based on customer locations.
+- Create a chart of your choice to visualize what industries have the most profitable rentals.
     
 ## Dataset
 
@@ -61,7 +66,6 @@ This project relies on the following Python libraries:
 - **matplotlib.pyplot**: A plotting library used for creating static, animated, and interactive visualizations in Python.
 
 Make sure you have these libraries installed in your Python environment before running the code. You can install them using pip:
-
     ```bash
     pip install pandas numpy matplotlib
 
@@ -73,4 +77,4 @@ These libraries are essential for data manipulation, numerical computations, and
 
 ## Contact
 
-For questions or feedback regarding this case study, please contact Bastien Youssfi (bastien.youssfi@gmail.com.
+For questions or feedback regarding this case study, please contact Bastien Youssfi (bastien.youssfi@gmail.com).

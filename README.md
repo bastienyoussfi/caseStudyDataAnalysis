@@ -23,19 +23,23 @@ Note: Feel free to use whichever tool/language to complete this assessment and s
 
 The questions asked were the following:
 
-Data Exploration
+Data Exploration:
     1. How many trailers are available from each make in the dataset?
     2. What is the distribution of trailer capacities?
-Data Manipulation
+    
+Data Manipulation:
     1. Calculate the average duration of trailer rentals.
     2. Identify the top 3 most frequently rented trailer models.
-Data Visualization
+    
+Data Visualization:
     1. Create a chart of your choice showing the distribution of trailer makes.
     2. Generate a chart of your choice to visualize the distribution of rental durations.
-Performance Analysis
+    
+Performance Analysis:
     1. Calculate the average utilization rate of trailers (percentage of time trailers are rented out).
     2. Determine the rental demand trends across different customer industries.
-Advanced Analysis
+    
+Advanced Analysis:
     1. Analyze and visualize the correlation between trailer age and rental duration (the age is calculated as the difference in years between the current year and the manufacturing year).
     2. Identify any seasonal patterns in rental demand based on customer locations.
     3. Create a chart of your choice to visualize what industries have the most profitable rentals.
@@ -44,8 +48,8 @@ Advanced Analysis
 
 We were provided with three datasets, Trailers, Rentals and Customers. You can find the dataset in the repository doing:
 
-```bash
-cd caseStudyDataAnalysis/Dataset
+    ```bash
+    cd caseStudyDataAnalysis/Dataset
 
 
 ## Dependencies
@@ -58,12 +62,12 @@ This project relies on the following Python libraries:
 
 Make sure you have these libraries installed in your Python environment before running the code. You can install them using pip:
 
-```bash
-pip install pandas numpy matplotlib
+    ```bash
+    pip install pandas numpy matplotlib
 
 Alternatively, you can install them via Anaconda if you are using the Anaconda distribution:
-```bash
-conda install pandas numpy matplotlib
+    ```bash
+    conda install pandas numpy matplotlib
 
 These libraries are essential for data manipulation, numerical computations, and data visualization tasks performed in this analysis.
 

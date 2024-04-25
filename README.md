@@ -8,9 +8,6 @@ This repository contains the data analysis case study I completed as part of a j
 - [Objective](#objective)
 - [Dataset](#dataset)
 - [Dependencies](#dependencies)
-- [Results](#results)
-- [Conclusion](#conclusion)
-- [Future Work](#future-work)
 - [Contact](#contact)
 
 ## Introduction
@@ -53,9 +50,8 @@ Advanced Analysis:
 
 We were provided with three datasets, Trailers, Rentals and Customers. You can find the dataset in the repository doing:
 
-    ```bash
-    cd caseStudyDataAnalysis/Dataset
 
+    cd caseStudyDataAnalysis/Dataset
 
 ## Dependencies
 
@@ -66,11 +62,11 @@ This project relies on the following Python libraries:
 - **matplotlib.pyplot**: A plotting library used for creating static, animated, and interactive visualizations in Python.
 
 Make sure you have these libraries installed in your Python environment before running the code. You can install them using pip:
-    ```bash
+
     pip install pandas numpy matplotlib
 
 Alternatively, you can install them via Anaconda if you are using the Anaconda distribution:
-    ```bash
+
     conda install pandas numpy matplotlib
 
 These libraries are essential for data manipulation, numerical computations, and data visualization tasks performed in this analysis.
